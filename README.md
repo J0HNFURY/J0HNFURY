@@ -1,5 +1,6 @@
 ## Hi there 👋
-
+## I'm just a student, who wants to gain some experience in IT by creating and updating my own projects.
+## I hope that this GitHub page will grow in future to update my portfolio 🤓
 <!--
 **J0HNFURY/J0HNFURY** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
